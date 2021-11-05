@@ -1,0 +1,10 @@
+include ':navigation'
+include ':navigation-impl'
+include ':pokemon-list'
+include ':tests'
+include ':utils'
+include ':pokemon'
+include ':network'
+include ':design'
+include ':app'
+rootProject.name = "Pokedex"
